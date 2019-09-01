@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airport", "Airport\Airport.csproj", "{3801AE08-AEC5-434F-8B51-BD0224352BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulator", "Simulator\Simulator.csproj", "{BA115A1B-8EFE-4A88-B291-8AB7F621994E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibruary", "CommonLibruary\CommonLibruary.csproj", "{FA99A466-3BD1-4C6B-B23B-D75146E028F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3801AE08-AEC5-434F-8B51-BD0224352BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3801AE08-AEC5-434F-8B51-BD0224352BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3801AE08-AEC5-434F-8B51-BD0224352BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3801AE08-AEC5-434F-8B51-BD0224352BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA115A1B-8EFE-4A88-B291-8AB7F621994E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA115A1B-8EFE-4A88-B291-8AB7F621994E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA115A1B-8EFE-4A88-B291-8AB7F621994E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA115A1B-8EFE-4A88-B291-8AB7F621994E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA99A466-3BD1-4C6B-B23B-D75146E028F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA99A466-3BD1-4C6B-B23B-D75146E028F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA99A466-3BD1-4C6B-B23B-D75146E028F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA99A466-3BD1-4C6B-B23B-D75146E028F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB164511-452D-438E-BC39-51C96043313A}
+	EndGlobalSection
+EndGlobal
