@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Airport.Migrations
 {
     [DbContext(typeof(AirportContext))]
-    [Migration("20190901102556_airport")]
+    [Migration("20190901115240_airport")]
     partial class airport
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
